@@ -1,0 +1,16 @@
+[
+  {
+    "id": "SAMPLE-T001",
+    "title": "Revise Fourier series",
+    "dueDate": "2026-10-20",
+    "completed": false,
+    "description": "Synthetic test record. Map fields to the actual app model before importing."
+  },
+  {
+    "id": "SAMPLE-T002",
+    "title": "Prepare lab observation notes",
+    "dueDate": "2026-10-22",
+    "completed": true,
+    "description": "Synthetic test record. Map fields to the actual app model before importing."
+  }
+]

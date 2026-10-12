@@ -1,0 +1,4 @@
+record_id,course_name,date,status,note
+SAMPLE-A001,Engineering Mathematics,2026-09-01,Present,Synthetic sample only
+SAMPLE-A002,Engineering Chemistry,2026-09-02,Absent,Synthetic sample only
+SAMPLE-A003,Programming Fundamentals,2026-09-03,Present,Synthetic sample only
